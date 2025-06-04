@@ -7,7 +7,6 @@ A small collection of PowerShell scripts for Windows 11.
 - `PowerShell Windows Scripts/` – contains all scripts.
   - `GUI/` – scripts that modify the user interface.
   - `Network/` – scripts for network settings.
-  - `Описание набора.txt` – Russian description of the script set.
 
 ### GUI Scripts
 
@@ -26,7 +25,6 @@ A small collection of PowerShell scripts for Windows 11.
 - `PowerShell Windows Scripts/` – папка со скриптами.
   - `GUI/` – скрипты для изменения интерфейса.
   - `Network/` – скрипты для работы с сетью.
-  - `Описание набора.txt` – описание скриптов на русском языке.
 
 ### Скрипты GUI
 
